@@ -1,0 +1,86 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: #87CEFA;
+    border: #87CEFA solid 10px;
+}
+#logo{
+    border: #1E90FF solid 2px;
+    border-radius: 7px;
+}
+#txt1{
+    color: red;
+}
+#zag{
+    color: red;
+    border: orange dotted;
+    width: 240px;
+    height: 40px;
+}
+footer{
+}
+td{
+    border: darkmagenta solid 4px;
+}
+#contacts2{
+    padding-left: 15px
+}
+nav{
+    border: gray solid 2px;
+    padding: 7px;
+
+}
+nav a{
+    color: gray;
+    text-decoration: none;
+    margin-left: 18px;
+    margin-right: 18px;
+}
+table{
+    border: darkmagenta solid 4px;
+    border-collapse: collapse;
+}
+.contacts {
+    padding: 5px;
+}
+.prod{
+    background: lightgreen;
+    padding: 10px;
+    border: black solid 2px;
+}
+#discount{
+    color: blue;
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-top: 30px;
+}
+.season{
+    margin: 10px;
+}
+#img1{
+    border-radius: 20px;
+    border: cadetblue solid 2px;
+}
+#delivery{
+    font-size: 30px;
+    color: blue;
+}
+#contact{
+    text-decoration: none;
+    color: darkblue;
+    border: darkblue solid 3px;
+    padding: 7px;
+}
+.help{
+    margin-left: 20px;
+}
+#wholesale{
+    font-size: 30px;
+    color: blue;
+}
+#about_us{
+    font-size: 30px;
+    color: blue;
+}
